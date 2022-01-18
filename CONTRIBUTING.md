@@ -1,2 +1,0 @@
-# Project Maintainers:
-@cslavenc
