@@ -7,6 +7,7 @@
 | ADA   | Layer 1        | Cardano (native)
 | DOT   | Layer 1        | Polkadot (native)
 | BNB   | Exchange       | BC
+| XTZ   | Layer 1        | Tezos (native)
 | CHR   | NFT            | ERC-20
 | FIO   | NFT            | ERC-20
 | GHST  | NFT, Metaverse | ERC-20
@@ -125,3 +126,20 @@
 | GLMR  | DeFi           | Polkadot
 | PHA   | DeFi           | Polkadot
 | ILV   | Metaverse      | Polkadot
+| PEOPLE| DAO            | 
+| BEAM  | Layer 1        | 
+| ANC   | Layer 2        | Terra
+| ANT   | DAO            | 
+| MBOX  | Gaming, NFT, Metaverse | 
+| COTI  | DeFi, Fintech  | 
+| FLOW  | Layer 1, Gaming| 
+| WAXP  | Layer 1, NFT, Gaming | 
+| STRAX | Layer 1        | 
+| MLN   | Layer 2        | 
+| NEO   | Layer 1        | 
+| YGG   | DAO, NFT       | 
+| TOMO  | Layer 1, DeFi  | 
+| CELR  | Layer 2        | 
+| UNI   | Exchange       | 
+| MASK  | DAO            | 
+| TRX   | Layer 1        | Tron (native)
