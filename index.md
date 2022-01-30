@@ -143,3 +143,20 @@
 | UNI   | Exchange       | 
 | MASK  | DAO            | 
 | TRX   | Layer 1        | Tron (native)
+| DASH  | DAO            | 
+| KEEP  | Layer 1        | 
+| FIRO  | Layer 1        | 
+| ETC   | Layer 1        | 
+| XMR   | Layer 1        | 
+| LTC   | Layer 1        | BTC
+| BCH   | Layer 1        | BTC
+| POND  | Layer 0        | 
+| TLM   | NFT, DeFi, Gaming, Metaverse, DAO | 
+| MINA  | Layer 1        | 
+| XLM   | Layer 1        | 
+| FARM  | DeFi           | 
+| DYDX  | Layer 2        | 
+| SOL   | Layer 1        | 
+| LOKA  | Gaming, NFT    | 
+| VOXEL | Gaming, NFT    | 
+| SCRT  | Layer 1        | 
